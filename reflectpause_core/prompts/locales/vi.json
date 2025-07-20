@@ -1,0 +1,18 @@
+{
+  "title": "Hãy dành thời gian để suy ngẫm",
+  "cbt_questions": [
+    "Sự kiện hoặc tình huống cụ thể nào đã kích hoạt cảm giác này?",
+    "Những suy nghĩ nào đang chạy qua tâm trí bạn ngay bây giờ?",
+    "Bạn sẽ đánh giá cường độ của cảm xúc này từ 1-10 như thế nào?",
+    "Bằng chứng nào hỗ trợ suy nghĩ này? Bằng chứng nào thách thức nó?",
+    "Một người bạn tốt sẽ phản ứng như thế nào với tình huống này?",
+    "Bạn sẽ nói gì với một người bạn đang trải qua điều này?",
+    "Điều tệ nhất có thể xảy ra thực tế là gì? Điều tốt nhất là gì?",
+    "Điều này sẽ quan trọng như thế nào trong 5 năm nữa?",
+    "Bạn có thể thực hiện những hành động nào để cải thiện tình huống này?",
+    "Bạn đã học được gì từ những tình huống tương tự trong quá khứ?"
+  ],
+  "reflection_prompt": "Hãy dành thời gian suy nghĩ về phản hồi của bạn trước khi gửi:",
+  "continue_text": "Vẫn gửi",
+  "cancel_text": "Chỉnh sửa tin nhắn"
+}

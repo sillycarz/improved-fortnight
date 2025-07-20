@@ -1,0 +1,18 @@
+{
+  "title": "Reserve um momento para refletir",
+  "cbt_questions": [
+    "Que evento ou situação específica desencadeou este sentimento?",
+    "Que pensamentos estão passando pela sua mente agora?",
+    "Como você avaliaria a intensidade desta emoção de 1 a 10?",
+    "Que evidência apoia este pensamento? Que evidência o desafia?",
+    "Como um bom amigo poderia responder a esta situação?",
+    "O que você diria a um amigo que estivesse passando por isso?",
+    "Qual é o pior que poderia acontecer realisticamente? Qual é o melhor?",
+    "Quão importante isso será em 5 anos?",
+    "Que ações você poderia tomar para melhorar esta situação?",
+    "O que você aprendeu com situações similares no passado?"
+  ],
+  "reflection_prompt": "Reserve um momento para considerar sua resposta antes de enviar:",
+  "continue_text": "Enviar mesmo assim",
+  "cancel_text": "Editar mensagem"
+}

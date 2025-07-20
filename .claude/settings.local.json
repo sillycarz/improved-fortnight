@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(md-tree:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prenez un moment pour réfléchir",
+  "cbt_questions": [
+    "Quel événement ou situation spécifique a déclenché ce sentiment ?",
+    "Quelles pensées traversent votre esprit en ce moment ?",
+    "Comment évalueriez-vous l'intensité de cette émotion de 1 à 10 ?",
+    "Quelles preuves soutiennent cette pensée ? Quelles preuves la remettent en question ?",
+    "Comment un bon ami pourrait-il répondre à cette situation ?",
+    "Que diriez-vous à un ami qui vivait cela ?",
+    "Quelle est la pire chose qui pourrait arriver de manière réaliste ? Quelle est la meilleure ?",
+    "Quelle importance cela aura-t-il dans 5 ans ?",
+    "Quelles actions pourriez-vous entreprendre pour améliorer cette situation ?",
+    "Qu'avez-vous appris de situations similaires dans le passé ?"
+  ],
+  "reflection_prompt": "Prenez un moment pour réfléchir à votre réponse avant d'envoyer :",
+  "continue_text": "Envoyer quand même",
+  "cancel_text": "Modifier le message"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Take a moment to reflect",
+  "cbt_questions": [
+    "What specific event or situation triggered this feeling?",
+    "What thoughts are going through your mind right now?",
+    "How would you rate the intensity of this emotion from 1-10?",
+    "What evidence supports this thought? What evidence challenges it?",
+    "How might a good friend respond to this situation?",
+    "What would you tell a friend who was experiencing this?",
+    "What's the worst that could realistically happen? What's the best?",
+    "How important will this be in 5 years?",
+    "What actions could you take to improve this situation?",
+    "What have you learned from similar situations in the past?"
+  ],
+  "reflection_prompt": "Take a moment to consider your response before sending:",
+  "continue_text": "Send anyway",
+  "cancel_text": "Edit message"
+}

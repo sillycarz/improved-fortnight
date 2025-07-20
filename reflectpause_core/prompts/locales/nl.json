@@ -1,0 +1,18 @@
+{
+  "title": "Neem even de tijd om na te denken",
+  "cbt_questions": [
+    "Welke specifieke gebeurtenis of situatie heeft dit gevoel veroorzaakt?",
+    "Welke gedachten gaan er nu door je hoofd?",
+    "Hoe zou je de intensiteit van deze emotie beoordelen van 1-10?",
+    "Welk bewijs ondersteunt deze gedachte? Welk bewijs stelt het ter discussie?",
+    "Hoe zou een goede vriend op deze situatie kunnen reageren?",
+    "Wat zou je tegen een vriend zeggen die dit meemaakte?",
+    "Wat is het ergste dat realistisch zou kunnen gebeuren? Wat is het beste?",
+    "Hoe belangrijk zal dit zijn over 5 jaar?",
+    "Welke acties zou je kunnen ondernemen om deze situatie te verbeteren?",
+    "Wat heb je geleerd van vergelijkbare situaties in het verleden?"
+  ],
+  "reflection_prompt": "Neem even de tijd om over je reactie na te denken voordat je verzendt:",
+  "continue_text": "Toch verzenden",
+  "cancel_text": "Bericht bewerken"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Nehmen Sie sich einen Moment zum Nachdenken",
+  "cbt_questions": [
+    "Welches spezifische Ereignis oder welche Situation hat dieses Gefühl ausgelöst?",
+    "Welche Gedanken gehen Ihnen gerade durch den Kopf?",
+    "Wie würden Sie die Intensität dieser Emotion von 1-10 bewerten?",
+    "Welche Beweise unterstützen diesen Gedanken? Welche Beweise stellen ihn in Frage?",
+    "Wie könnte ein guter Freund auf diese Situation reagieren?",
+    "Was würden Sie einem Freund sagen, der das erlebt?",
+    "Was ist das Schlimmste, was realistisch passieren könnte? Was ist das Beste?",
+    "Wie wichtig wird das in 5 Jahren sein?",
+    "Welche Maßnahmen könnten Sie ergreifen, um diese Situation zu verbessern?",
+    "Was haben Sie aus ähnlichen Situationen in der Vergangenheit gelernt?"
+  ],
+  "reflection_prompt": "Nehmen Sie sich einen Moment Zeit, um über Ihre Antwort nachzudenken, bevor Sie senden:",
+  "continue_text": "Trotzdem senden",
+  "cancel_text": "Nachricht bearbeiten"
+}
